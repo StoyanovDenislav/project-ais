@@ -1,0 +1,3 @@
+myenv/
+file_system_map_[A-Z]*__.json
+__pycache__/*
